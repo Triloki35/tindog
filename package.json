@@ -1,0 +1,23 @@
+{
+  "name": "tindog-start-master",
+  "version": "1.0.0",
+  "description": "TinDog Starting Files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triloki35/tindog.git"
+  },
+  "author": "Triloki Nath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triloki35/tindog/issues"
+  },
+  "homepage": "https://github.com/Triloki35/tindog#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
